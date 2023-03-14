@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "roboto", sans-serif;
+}
+
+.css-h7ky0d-MuiPaper-root-MuiCard-root {
+  width: 80%;
+}
+
